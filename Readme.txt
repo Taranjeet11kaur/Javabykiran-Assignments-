@@ -1,0 +1,1 @@
+This Repository contains Java code aim at prcticing Basic Java .It is part of my practical excercises in Jav Intership led by Kiran Sir at Kiran Academy , designed to enhance skills and proficiency in java programming.
